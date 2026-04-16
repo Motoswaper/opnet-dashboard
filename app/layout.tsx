@@ -1,6 +1,7 @@
 import "./../styles/globals.css";
 import type { ReactNode } from "react";
 import Nav from "../components/Nav";
+import { Toaster } from "react-hot-toast";   // ⭐ ADD THIS
 
 export const metadata = {
   title: "OP_NET Dashboard",
@@ -13,6 +14,8 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <body>
         <Nav />
         <main className="container">{children}</main>
+
+        <Toaster position="bottom-right" />   {/* ⭐ ADD THIS */}
       </body>
     </html>
   );

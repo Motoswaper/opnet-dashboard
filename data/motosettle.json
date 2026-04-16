@@ -1,0 +1,18 @@
+{
+  "escrows": [
+    {
+      "id": 101,
+      "buyer": "0x1111",
+      "seller": "0x2222",
+      "amount": 100,
+      "status": "active"
+    },
+    {
+      "id": 102,
+      "buyer": "0x3333",
+      "seller": "0x4444",
+      "amount": 75,
+      "status": "dispute"
+    }
+  ]
+}

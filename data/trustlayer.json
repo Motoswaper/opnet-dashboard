@@ -1,0 +1,16 @@
+{
+  "workers": [
+    {
+      "address": "0xA1B2C3D4",
+      "reputation": 2450,
+      "tags": ["AI_SAFE", "ARBITER"],
+      "slashed": false
+    },
+    {
+      "address": "0x99887766",
+      "reputation": 1800,
+      "tags": ["WORKER"],
+      "slashed": true
+    }
+  ]
+}

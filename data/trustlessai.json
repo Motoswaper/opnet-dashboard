@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "prompt": "Summarize a 10‑page PDF",
+      "status": "completed",
+      "worker": "0xA1B2C3D4",
+      "payment": 50
+    },
+    {
+      "id": 2,
+      "prompt": "Generate 5 product descriptions",
+      "status": "open",
+      "worker": null,
+      "payment": 20
+    }
+  ]
+}
