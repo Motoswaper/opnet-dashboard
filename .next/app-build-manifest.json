@@ -1,15 +1,112 @@
 {
   "pages": {
-    "/trustlessai/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/trustlessai/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/_not-found/page-f1130fe0cf414bdc.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/css/eae016d0ac6bebc0.css",
+      "static/chunks/972-9cb67edf28e2c3a5.js",
+      "static/chunks/app/layout-24e5d787d428a9d2.js"
+    ],
+    "/ecosystem/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/ecosystem/page-129ab27bf2d84634.js"
+    ],
+    "/motosettle/create/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/motosettle/create/page-a7dd81b3b10ce34c.js"
+    ],
+    "/motosettle/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/motosettle/page-f4377d3d46ee84e0.js"
+    ],
+    "/trustlayer/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/trustlayer/page-dc66d8d61beb6dc1.js"
+    ],
+    "/opshop/listing/[id]/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/opshop/listing/[id]/page-3ed8eec6f4e1402f.js"
+    ],
+    "/opshop/create/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/opshop/create/page-2e42ee1b7525e990.js"
+    ],
+    "/opshop/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/opshop/page-5849ca0340f46600.js"
+    ],
+    "/trustlayer/worker/[address]/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/trustlayer/worker/[address]/page-17f30321657f987e.js"
+    ],
+    "/motosettle/escrow/[id]/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/motosettle/escrow/[id]/page-f89a60f7860def97.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/972-9cb67edf28e2c3a5.js",
+      "static/chunks/app/page-7208ad9bf40f21fb.js"
+    ],
+    "/trustlessai/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/trustlessai/page-f08f66bc453c3307.js"
+    ],
+    "/trustlessai/create/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/trustlessai/create/page-7f7a9b17cdd6537c.js"
+    ],
+    "/trustlessai/job/[id]/page": [
+      "static/chunks/webpack-f60560fce93593a2.js",
+      "static/chunks/fd9d1056-f85839714dd12567.js",
+      "static/chunks/117-0b01769908cec5b3.js",
+      "static/chunks/main-app-4c8d7b4ee101cd26.js",
+      "static/chunks/app/trustlessai/job/[id]/page-cff8a8269632d6b1.js"
     ]
   }
 }

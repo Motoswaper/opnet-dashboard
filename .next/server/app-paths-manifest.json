@@ -1,3 +1,22 @@
 {
-  "/trustlessai/page": "app/trustlessai/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/trustlessai/jobs/route": "app/api/trustlessai/jobs/route.js",
+  "/api/trustlayer/workers/route": "app/api/trustlayer/workers/route.js",
+  "/api/motosettle/escrows/route": "app/api/motosettle/escrows/route.js",
+  "/api/opshop/listings/route": "app/api/opshop/listings/route.js",
+  "/api/op20/tokens/route": "app/api/op20/tokens/route.js",
+  "/ecosystem/page": "app/ecosystem/page.js",
+  "/motosettle/create/page": "app/motosettle/create/page.js",
+  "/api/op20/balances/route": "app/api/op20/balances/route.js",
+  "/motosettle/page": "app/motosettle/page.js",
+  "/trustlayer/page": "app/trustlayer/page.js",
+  "/opshop/listing/[id]/page": "app/opshop/listing/[id]/page.js",
+  "/opshop/create/page": "app/opshop/create/page.js",
+  "/opshop/page": "app/opshop/page.js",
+  "/trustlayer/worker/[address]/page": "app/trustlayer/worker/[address]/page.js",
+  "/motosettle/escrow/[id]/page": "app/motosettle/escrow/[id]/page.js",
+  "/page": "app/page.js",
+  "/trustlessai/page": "app/trustlessai/page.js",
+  "/trustlessai/create/page": "app/trustlessai/create/page.js",
+  "/trustlessai/job/[id]/page": "app/trustlessai/job/[id]/page.js"
 }
